@@ -13,7 +13,7 @@ position = int(position_str) - 1
 
 aux = 0
 
-# it stops depending on count
+# it stops on count
 while aux <= count:
     print("Retrieving:", url)
 
